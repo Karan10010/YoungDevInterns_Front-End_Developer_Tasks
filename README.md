@@ -50,5 +50,5 @@ Each task was shared on **LinkedIn and Facebook** tagging `@YoungDevInterns` as 
 
 ## 📬 Contact
 If you'd like to connect, feel free to reach out via:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/karan-kumar-7279522b3)
 - GitHub: [Your GitHub](https://github.com/yourusername)
